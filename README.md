@@ -4,9 +4,26 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=fbbf24&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Next.js+%26+Nest.js+Expert;Software+Architecture+Specialist;Building+Scalable+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=fbbf24&center=true&vCenter=true&width=500&lines=Building+A+to+Z+Store;Next.js+%26+Nest.js+Expert;Software+Architecture+Specialist;Learning+German+Language" alt="Typing SVG" />
   </a>
 </p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=fadyalamir&theme=darkhub&no-bg=true&column=7&margin-w=15&rank=SSS,SS,S,AAA,AA,A" alt="Trophies" />
+  </a>
+</p>
+
+---
+
+### 💫 About Me
+- 🔭 Currently developing **A to Z Store**, a high-performance e-commerce platform using **Next.js**, **Nest.js**, and **PostgreSQL**.
+- 🚀 Finalizing the backend for the **Saraha App** with a focus on scalable architecture.
+- 🇩🇪 Embarking on a journey to master the **German language**.
+- 🎬 Fan of intense spy thrillers like **Jack Ryan** and **The Punisher**.
 
 ---
 
@@ -24,7 +41,7 @@
 ### 🖥️ Frontend Expertise:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,mui,vite,threejs,sass&perline=10" />
-  <br>
+  <br><br>
   <img src="https://img.shields.io/badge/OOP-fbbf24?style=for-the-badge&logo=codeforces&logoColor=black" />
   <img src="https://img.shields.io/badge/Framer_Motion-fbbf24?style=for-the-badge&logo=framer&logoColor=black" />
   <img src="https://img.shields.io/badge/Zod-fbbf24?style=for-the-badge&logo=zod&logoColor=black" />
@@ -35,7 +52,7 @@
 ### ⚙️ Backend & Architecture:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mongodb,mysql,redis,graphql,prisma,docker,githubactions,linux&perline=10" />
-  <br>
+  <br><br>
   <img src="https://img.shields.io/badge/JWT_Auth-fbbf24?style=for-the-badge&logo=jsonwebtokens&logoColor=black" />
   <img src="https://img.shields.io/badge/Socket.io-fbbf24?style=for-the-badge&logo=socketdotio&logoColor=black" />
 </p>
@@ -53,11 +70,11 @@
 <div align="center">
   <table border="0">
     <tr>
-      <td>
-        <img height="180em" src="https://my-github-stats-fady.vercel.app/api?username=fadyalamir&show_icons=true&theme=tokyonight&title_color=fbbf24&icon_color=fbbf24&text_color=ffffff&bg_color=0d1117&hide_border=true&border_radius=10" />
+      <td width="50%">
+        <img src="https://my-github-stats-fady.vercel.app/api?username=fadyalamir&show_icons=true&theme=tokyonight&title_color=fbbf24&icon_color=fbbf24&text_color=ffffff&bg_color=0d1117&hide_border=true&border_radius=10" />
       </td>
-      <td>
-        <img height="180em" src="https://my-github-stats-fady.vercel.app/api/top-langs/?username=fadyalamir&layout=compact&theme=tokyonight&title_color=fbbf24&icon_color=fbbf24&text_color=ffffff&bg_color=0d1117&hide_border=true&border_radius=10" />
+      <td width="50%">
+        <img src="https://my-github-stats-fady.vercel.app/api/top-langs/?username=fadyalamir&layout=compact&theme=tokyonight&title_color=fbbf24&icon_color=fbbf24&text_color=ffffff&bg_color=0d1117&hide_border=true&border_radius=10" />
       </td>
     </tr>
   </table>
@@ -70,9 +87,9 @@
 ---
 
 ### 🐍 My Contribution Snake
-<div align="center">
+<p align="center">
   <img src="https://github.com/fadyalamir/fadyalamir/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fadyalamir&label=Profile%20Views&color=fbbf24&style=flat-square" />
