@@ -10,16 +10,14 @@
 
 ---
 
-### 🏆 Digital Accolades & Trophies
+### 🌟 GitHub Achievements & Milestones
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=fadyalamir&theme=dracula&column=7&margin-w=15&margin-h=15&no-bg=true" alt="fadyalamir trophies" />
-  </a>
+  <img src="https://github-profile-stats.vercel.app/api/achievements?username=fadyalamir&theme=tokyonight" alt="Fady's GitHub Achievements" />
 </p>
 
 ---
 
-### 📬 Let's Build Something Together
+### 🤝 Let's Connect & Collaborate
 <p align="center">
   <a href="https://linkedin.com/in/fadyalamir" target="blank"><img src="https://img.shields.io/badge/LinkedIn-fbbf24?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
   <a href="mailto:fadyalamer72@gmail.com"><img src="https://img.shields.io/badge/Gmail-fbbf24?style=for-the-badge&logo=gmail&logoColor=black" /></a>
@@ -30,7 +28,7 @@
 
 ---
 
-### ✨ Frontend Craftsmanship
+### 🎨 Frontend Mastery & UX
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,mui,vite,threejs,sass&perline=10" />
   <br>
@@ -41,7 +39,7 @@
 
 ---
 
-### ⚙️ Backend & System Design
+### 🏗️ Backend Engineering & Architecture
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mongodb,mysql,redis,graphql,prisma,docker,githubactions,linux&perline=10" />
   <br>
@@ -51,14 +49,14 @@
 
 ---
 
-### 🧰 Professional Toolkit
+### 🧰 Engineering Toolkit
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,aws,vercel,netlify,pnpm,npm&perline=10" />
 </p>
 
 ---
 
-### 📊 Coding Activity & Metrics
+### 📊 Coding Metrics & Insights
 <div align="center">
   <table border="0">
     <tr>
@@ -78,7 +76,7 @@
 
 ---
 
-### 🐍 The Code Journey
+### 🐍 The Development Flow
 <div align="center">
   <img src="https://github.com/fadyalamir/fadyalamir/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
