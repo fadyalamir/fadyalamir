@@ -10,58 +10,26 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 Achievements & Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=fadyalamir&theme=darkhub&no-bg=true&column=7&margin-w=15&rank=SSS,SS,S,AAA,AA,A" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=fadyalamir&theme=shades-of-purple&no-bg=true&column=7&margin-w=15" alt="Trophies" />
   </a>
 </p>
 
 ---
 
 ### 💫 About Me
-- 🔭 Currently developing **A to Z Store**, a high-performance e-commerce platform using **Next.js**, **Nest.js**, and **PostgreSQL**.
-- 🚀 Finalizing the backend for the **Saraha App** with a focus on scalable architecture.
-- 🇩🇪 Embarking on a journey to master the **German language**.
-- 🎬 Fan of intense spy thrillers like **Jack Ryan** and **The Punisher**.
+- 🔭 Currently building **A to Z Store**, a high-performance e-commerce platform.
+- 🚀 Finalizing **Saraha App** backend and scaling student platforms.
+- 🇩🇪 On a mission to master the **German language**.
+- 🍿 Fan of spy/military thrillers like **Jack Ryan** and **The Punisher**.
 
 ---
 
-### 🌐 Connect with me:
+### 🖥️ Tech Stack & Expertise
 <p align="center">
-  <a href="https://linkedin.com/in/fadyalamir" target="blank"><img src="https://img.shields.io/badge/LinkedIn-fbbf24?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
-  <a href="mailto:fadyalamer72@gmail.com"><img src="https://img.shields.io/badge/Gmail-fbbf24?style=for-the-badge&logo=gmail&logoColor=black" /></a>
-  <a href="https://t.me/fadyalamir"><img src="https://img.shields.io/badge/Telegram-fbbf24?style=for-the-badge&logo=telegram&logoColor=black" /></a>
-  <a href="https://wa.me/yournumber"><img src="https://img.shields.io/badge/WhatsApp-fbbf24?style=for-the-badge&logo=whatsapp&logoColor=black" /></a>
-  <a href="https://fb.com/fadyalamir"><img src="https://img.shields.io/badge/Facebook-fbbf24?style=for-the-badge&logo=facebook&logoColor=black" /></a>
-</p>
-
----
-
-### 🖥️ Frontend Expertise:
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,mui,vite,threejs,sass&perline=10" />
-  <br><br>
-  <img src="https://img.shields.io/badge/OOP-fbbf24?style=for-the-badge&logo=codeforces&logoColor=black" />
-  <img src="https://img.shields.io/badge/Framer_Motion-fbbf24?style=for-the-badge&logo=framer&logoColor=black" />
-  <img src="https://img.shields.io/badge/Zod-fbbf24?style=for-the-badge&logo=zod&logoColor=black" />
-</p>
-
----
-
-### ⚙️ Backend & Architecture:
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mongodb,mysql,redis,graphql,prisma,docker,githubactions,linux&perline=10" />
-  <br><br>
-  <img src="https://img.shields.io/badge/JWT_Auth-fbbf24?style=for-the-badge&logo=jsonwebtokens&logoColor=black" />
-  <img src="https://img.shields.io/badge/Socket.io-fbbf24?style=for-the-badge&logo=socketdotio&logoColor=black" />
-</p>
-
----
-
-### 🛠️ Professional Tools:
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,aws,vercel,netlify,pnpm,npm&perline=10" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,nodejs,nestjs,postgres,mongodb,prisma,docker,git,aws,vscode&perline=8" />
 </p>
 
 ---
