@@ -10,11 +10,11 @@
 
 ---
 
-### 🏆 Professional Milestones & Badges
+### 🏆 Professional Milestones & Achievements
 <p align="center">
-  <img src="https://img.shields.io/badge/Pull_Shark-fbbf24?style=for-the-badge&logo=github&logoColor=black" />
-  <img src="https://img.shields.io/badge/Quickdraw-fbbf24?style=for-the-badge&logo=github&logoColor=black" />
-  <img src="https://img.shields.io/badge/YOLO-fbbf24?style=for-the-badge&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pull_Shark-fbbf24?style=for-the-badge&logo=github&logoColor=black" /> 
+  <img src="https://img.shields.io/badge/Quickdraw-fbbf24?style=for-the-badge&logo=github&logoColor=black" /> 
+  <img src="https://img.shields.io/badge/YOLO-fbbf24?style=for-the-badge&logo=github&logoColor=black" /> 
   <img src="https://img.shields.io/badge/Arctic_Code_Vault-fbbf24?style=for-the-badge&logo=github&logoColor=black" />
 </p>
 
@@ -41,22 +41,22 @@
 
 ---
 
-### ✨ Frontend Mastery & UI Architecture
+### 🎨 Frontend Mastery & UI Architecture
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,mui,vite,threejs,sass&perline=10" />
   <br>
-  <img src="https://img.shields.io/badge/OOP-fbbf24?style=for-the-badge&logo=codeforces&logoColor=black" />
-  <img src="https://img.shields.io/badge/Framer_Motion-fbbf24?style=for-the-badge&logo=framer&logoColor=black" />
+  <img src="https://img.shields.io/badge/OOP-fbbf24?style=for-the-badge&logo=codeforces&logoColor=black" /> 
+  <img src="https://img.shields.io/badge/Framer_Motion-fbbf24?style=for-the-badge&logo=framer&logoColor=black" /> 
   <img src="https://img.shields.io/badge/Zod-fbbf24?style=for-the-badge&logo=zod&logoColor=black" />
 </p>
 
 ---
 
-### 🏗️ Backend Engineering & Cloud Systems
+### 🏗️ Backend Engineering & Scalable Systems
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mongodb,mysql,redis,graphql,prisma,docker,githubactions,linux&perline=10" />
   <br>
-  <img src="https://img.shields.io/badge/JWT_Auth-fbbf24?style=for-the-badge&logo=jsonwebtokens&logoColor=black" />
+  <img src="https://img.shields.io/badge/JWT_Auth-fbbf24?style=for-the-badge&logo=jsonwebtokens&logoColor=black" /> 
   <img src="https://img.shields.io/badge/Socket.io-fbbf24?style=for-the-badge&logo=socketdotio&logoColor=black" />
 </p>
 
@@ -69,7 +69,7 @@
 
 ---
 
-### 📈 GitHub Activity & Stats
+### 📊 Performance & Coding Insights
 <div align="center">
   <table border="0">
     <tr>
@@ -89,7 +89,7 @@
 
 ---
 
-### 🐍 The Code Journey
+### 🐍 The Code Narrative
 <div align="center">
   <img src="https://github.com/fadyalamir/fadyalamir/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
