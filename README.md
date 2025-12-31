@@ -13,7 +13,7 @@
 ### 🏆 GitHub Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=fadyalamir&theme=dracula&no-bg=true&column=7&margin-w=15&rank=SSS,SS,S,AAA" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=fadyalamir&theme=darkhub&no-bg=true&column=7&rank=SSS,SS,S,AAA" alt="Trophies" />
   </a>
 </p>
 
