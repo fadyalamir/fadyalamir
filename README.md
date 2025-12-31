@@ -10,7 +10,7 @@
 
 ---
 
-### 🏆 GitHub Milestones & Achievements
+### 🌟 Professional Milestones & Badges
 <p align="center">
   <img src="https://img.shields.io/badge/Pull_Shark-fbbf24?style=for-the-badge&logo=github&logoColor=black" />
   <img src="https://img.shields.io/badge/Quickdraw-fbbf24?style=for-the-badge&logo=github&logoColor=black" />
@@ -20,18 +20,18 @@
 
 ---
 
-### 🤝 Let's Connect & Collaborate
+### 📬 Get In Touch & Hire Me
 <p align="center">
-  <a href="https://linkedin.com/in/fady-alamir77" target="blank"><img src="https://img.shields.io/badge/LinkedIn-fbbf24?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
-  <a href="mailto:fadyalamer72@gmail.com"><img src="https://img.shields.io/badge/Gmail-fbbf24?style=for-the-badge&logo=gmail&logoColor=black" /></a>
+  <a href="https://linkedin.com/in/fadyalamir" target="blank"><img src="https://img.shields.io/badge/LinkedIn-fbbf24?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
+  <a href="mailto:fadyalamer72@gmail.com?subject=Inquiry%20from%20GitHub"><img src="https://img.shields.io/badge/Gmail-fbbf24?style=for-the-badge&logo=gmail&logoColor=black" /></a>
   <a href="https://t.me/fadyalamir"><img src="https://img.shields.io/badge/Telegram-fbbf24?style=for-the-badge&logo=telegram&logoColor=black" /></a>
-  <a href="https://wa.me/01097604425"><img src="https://img.shields.io/badge/WhatsApp-fbbf24?style=for-the-badge&logo=whatsapp&logoColor=black" /></a>
-  <a href="https://fb.com/fadyalamir77"><img src="https://img.shields.io/badge/Facebook-fbbf24?style=for-the-badge&logo=facebook&logoColor=black" /></a>
+  <a href="https://wa.me/yournumber"><img src="https://img.shields.io/badge/WhatsApp-fbbf24?style=for-the-badge&logo=whatsapp&logoColor=black" /></a>
+  <a href="https://fb.com/fadyalamir"><img src="https://img.shields.io/badge/Facebook-fbbf24?style=for-the-badge&logo=facebook&logoColor=black" /></a>
 </p>
 
 ---
 
-### 🎨 Frontend Mastery & Design
+### ⚡ Frontend Engineering Mastery
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,mui,vite,threejs,sass&perline=10" />
   <br>
@@ -42,7 +42,7 @@
 
 ---
 
-### 🏗️ Backend Engineering & Systems
+### 🛡️ Backend & Server-Side Systems
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mongodb,mysql,redis,graphql,prisma,docker,githubactions,linux&perline=10" />
   <br>
@@ -52,14 +52,14 @@
 
 ---
 
-### 🛠️ Professional Toolbox
+### ⚙️ Modern Developer Toolbox
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,aws,vercel,netlify,pnpm,npm&perline=10" />
 </p>
 
 ---
 
-### 📊 GitHub Activity & Statistics
+### 📊 Coding Metrics & Analysis
 <div align="center">
   <table border="0">
     <tr>
@@ -79,7 +79,7 @@
 
 ---
 
-### 🐍 The Contribution Flow
+### 🐍 The Code Narrative
 <div align="center">
   <img src="https://github.com/fadyalamir/fadyalamir/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
