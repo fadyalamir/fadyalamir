@@ -10,7 +10,16 @@
 
 ---
 
-### 🌐 Connect with me:
+### 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=fadyalamir&theme=tokyonight&no-bg=true&column=7&margin-w=15&margin-h=15" alt="fadyalamir trophies" />
+  </a>
+</p>
+
+---
+
+### 🤝 Let's Connect & Collaborate
 <p align="center">
   <a href="https://linkedin.com/in/fadyalamir" target="blank"><img src="https://img.shields.io/badge/LinkedIn-fbbf24?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
   <a href="mailto:fadyalamer72@gmail.com"><img src="https://img.shields.io/badge/Gmail-fbbf24?style=for-the-badge&logo=gmail&logoColor=black" /></a>
@@ -21,7 +30,7 @@
 
 ---
 
-### 🖥️ Frontend Expertise:
+### 🎨 Frontend Mastery
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,mui,vite,threejs,sass&perline=10" />
   <br>
@@ -32,7 +41,7 @@
 
 ---
 
-### ⚙️ Backend & Architecture:
+### 🏗️ Backend & Systems Architecture
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mongodb,mysql,redis,graphql,prisma,docker,githubactions,linux&perline=10" />
   <br>
@@ -42,14 +51,14 @@
 
 ---
 
-### 🛠️ Professional Tools:
+### 🔧 Engineering Toolbox
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,aws,vercel,netlify,pnpm,npm&perline=10" />
 </p>
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 📊 Performance & Insights
 <div align="center">
   <table border="0">
     <tr>
@@ -69,7 +78,7 @@
 
 ---
 
-### 🐍 My Contribution Snake
+### 🐍 Contribution Journey
 <div align="center">
   <img src="https://github.com/fadyalamir/fadyalamir/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
