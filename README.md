@@ -14,7 +14,7 @@
 - 🔭 I’m currently building high-performance web applications.
 - ⚡ In my spare time, I explore system architecture and AI integration.
 - 💬 Ask me about **JavaScript, TypeScript, or Cloud Deployment**.
-- 📫 Reach me at: **[Your Email Here]**
+- 📫 Reach me at: **fadyalamer72@gmail.com**
 
 ---
 
