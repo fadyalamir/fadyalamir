@@ -10,15 +10,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=fadyalamir&theme=radical&no-bg=true&column=7&margin-w=15" alt="Trophies" />
-  </a>
-</p>
-
----
-
 ### 🌐 Connect with me:
 <p align="center">
   <a href="https://linkedin.com/in/fadyalamir" target="blank"><img src="https://img.shields.io/badge/LinkedIn-fbbf24?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
@@ -33,7 +24,7 @@
 ### 🖥️ Frontend Expertise:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,mui,vite,threejs,sass&perline=10" />
-  <br><br>
+  <br>
   <img src="https://img.shields.io/badge/OOP-fbbf24?style=for-the-badge&logo=codeforces&logoColor=black" />
   <img src="https://img.shields.io/badge/Framer_Motion-fbbf24?style=for-the-badge&logo=framer&logoColor=black" />
   <img src="https://img.shields.io/badge/Zod-fbbf24?style=for-the-badge&logo=zod&logoColor=black" />
@@ -44,7 +35,7 @@
 ### ⚙️ Backend & Architecture:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mongodb,mysql,redis,graphql,prisma,docker,githubactions,linux&perline=10" />
-  <br><br>
+  <br>
   <img src="https://img.shields.io/badge/JWT_Auth-fbbf24?style=for-the-badge&logo=jsonwebtokens&logoColor=black" />
   <img src="https://img.shields.io/badge/Socket.io-fbbf24?style=for-the-badge&logo=socketdotio&logoColor=black" />
 </p>
@@ -62,11 +53,11 @@
 <div align="center">
   <table border="0">
     <tr>
-      <td width="50%">
-        <img src="https://my-github-stats-fady.vercel.app/api?username=fadyalamir&show_icons=true&theme=tokyonight&title_color=fbbf24&icon_color=fbbf24&text_color=ffffff&bg_color=0d1117&hide_border=true&border_radius=10" />
+      <td>
+        <img height="180em" src="https://my-github-stats-fady.vercel.app/api?username=fadyalamir&show_icons=true&theme=tokyonight&title_color=fbbf24&icon_color=fbbf24&text_color=ffffff&bg_color=0d1117&hide_border=true&border_radius=10" />
       </td>
-      <td width="50%">
-        <img src="https://my-github-stats-fady.vercel.app/api/top-langs/?username=fadyalamir&layout=compact&theme=tokyonight&title_color=fbbf24&icon_color=fbbf24&text_color=ffffff&bg_color=0d1117&hide_border=true&border_radius=10" />
+      <td>
+        <img height="180em" src="https://my-github-stats-fady.vercel.app/api/top-langs/?username=fadyalamir&layout=compact&theme=tokyonight&title_color=fbbf24&icon_color=fbbf24&text_color=ffffff&bg_color=0d1117&hide_border=true&border_radius=10" />
       </td>
     </tr>
   </table>
@@ -79,9 +70,9 @@
 ---
 
 ### 🐍 My Contribution Snake
-<p align="center">
+<div align="center">
   <img src="https://github.com/fadyalamir/fadyalamir/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fadyalamir&label=Profile%20Views&color=fbbf24&style=flat-square" />
