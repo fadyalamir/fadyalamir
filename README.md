@@ -26,21 +26,13 @@
 ---
 
 ### 📊 GitHub Activity & Stats
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fadyalamir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadyalamir&layout=compact&theme=tokyonight&border_radius=10" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fadyalamir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" alt="Fady's Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadyalamir&layout=compact&theme=tokyonight&border_radius=10&langs_count=8" alt="Top Languages" height="180" />
+</p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=fadyalamir&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fadyalamir&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
