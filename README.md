@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=fbbf24&height=250&section=header&text=Fady%20Alamir&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer&descAlignY=60&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=fbbf24&height=250&section=header&text=Fady%20Alamir&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Software%20Engineer&descAlignY=60&descSize=20" />
 </p>
 
 <p align="center">
@@ -10,17 +10,37 @@
 
 ---
 
-### 💫 About Me
-- 🔭 I’m currently building high-performance web applications using **Next.js** and **Nest.js**.
-- ⚡ I focus on creating scalable architectures and clean code.
-- 💬 Ask me about **JavaScript, TypeScript, or Cloud Deployment**.
-- 📫 Reach me at: **fadyalamer72@gmail.com**
+### 🌐 Connect with me:
+<p align="center">
+<a href="https://linkedin.com/in/fadyalamir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fadyalamir" height="30" width="40" /></a>
+<a href="mailto:fadyalamer72@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="fadyalamer72" height="30" width="40" /></a>
+<a href="https://fb.com/fadyalamir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fadyalamir" height="30" width="40" /></a>
+<a href="https://t.me/fadyalamir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="fadyalamir" height="30" width="40" /></a>
+<a href="https://wa.me/yournumber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp" height="30" width="40" /></a>
+</p>
 
 ---
 
-### 🚀 Tech Universe
+### 🖥️ Frontend Skills:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,nodejs,nestjs,postgres,mongodb,docker,git,aws,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,bootstrap,js,ts,tailwind,react,redux,nextjs&perline=10" />
+  <br>
+  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOP-fbbf24?style=for-the-badge&logoColor=black" />
+</p>
+
+---
+
+### ⚙️ Backend Skills:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mongodb,prisma,graphql,docker&perline=10" />
+</p>
+
+---
+
+### 🛠️ Tools:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,postman,figma,vscode,aws&perline=10" />
 </p>
 
 ---
@@ -49,8 +69,6 @@
 <div align="center">
   <img src="https://github.com/fadyalamir/fadyalamir/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fadyalamir&label=Profile%20Views&color=fbbf24&style=flat-square" />
