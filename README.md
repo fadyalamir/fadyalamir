@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=fbbf24&height=250&section=header&text=Fady%20Alamir&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Software%20Engineer&descAlignY=60&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=fbbf24&height=250&section=header&text=Fady%20Alamir&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Software%20Engineer&descAlignY=60&descSize=20" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=fbbf24&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;React+%26+Next.js+Expert;Nest.js+Back-end+Architect;Creative+Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=fbbf24&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Next.js+%26+Nest.js+Expert;Software+Architecture+Specialist;Building+Scalable+Solutions" alt="Typing SVG" />
   </a>
 </p>
 
@@ -12,35 +12,39 @@
 
 ### 🌐 Connect with me:
 <p align="center">
-<a href="https://linkedin.com/in/fadyalamir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fadyalamir" height="30" width="40" /></a>
-<a href="mailto:fadyalamer72@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="fadyalamer72" height="30" width="40" /></a>
-<a href="https://fb.com/fadyalamir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fadyalamir" height="30" width="40" /></a>
-<a href="https://t.me/fadyalamir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="fadyalamir" height="30" width="40" /></a>
-<a href="https://wa.me/yournumber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/fadyalamir" target="blank"><img src="https://img.shields.io/badge/LinkedIn-fbbf24?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
+  <a href="mailto:fadyalamer72@gmail.com"><img src="https://img.shields.io/badge/Gmail-fbbf24?style=for-the-badge&logo=gmail&logoColor=black" /></a>
+  <a href="https://t.me/fadyalamir"><img src="https://img.shields.io/badge/Telegram-fbbf24?style=for-the-badge&logo=telegram&logoColor=black" /></a>
+  <a href="https://wa.me/yournumber"><img src="https://img.shields.io/badge/WhatsApp-fbbf24?style=for-the-badge&logo=whatsapp&logoColor=black" /></a>
+  <a href="https://fb.com/fadyalamir"><img src="https://img.shields.io/badge/Facebook-fbbf24?style=for-the-badge&logo=facebook&logoColor=black" /></a>
 </p>
 
 ---
 
-### 🖥️ Frontend Skills:
+### 🖥️ Frontend Expertise:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,html,css,bootstrap,js,ts,tailwind,react,redux,nextjs&perline=10" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,mui,vite,threejs,sass&perline=10" />
   <br>
-  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" />
-  <img src="https://img.shields.io/badge/OOP-fbbf24?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/OOP-fbbf24?style=for-the-badge&logo=codeforces&logoColor=black" />
+  <img src="https://img.shields.io/badge/Framer_Motion-fbbf24?style=for-the-badge&logo=framer&logoColor=black" />
+  <img src="https://img.shields.io/badge/Zod-fbbf24?style=for-the-badge&logo=zod&logoColor=black" />
 </p>
 
 ---
 
-### ⚙️ Backend Skills:
+### ⚙️ Backend & Architecture:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mongodb,prisma,graphql,docker&perline=10" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mongodb,mysql,redis,graphql,prisma,docker,githubactions,linux&perline=10" />
+  <br>
+  <img src="https://img.shields.io/badge/JWT_Auth-fbbf24?style=for-the-badge&logo=jsonwebtokens&logoColor=black" />
+  <img src="https://img.shields.io/badge/Socket.io-fbbf24?style=for-the-badge&logo=socketdotio&logoColor=black" />
 </p>
 
 ---
 
-### 🛠️ Tools:
+### 🛠️ Professional Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,postman,figma,vscode,aws&perline=10" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,aws,vercel,netlify,pnpm,npm&perline=10" />
 </p>
 
 ---
