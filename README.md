@@ -27,8 +27,7 @@
 
 ### 📊 GitHub Activity & Stats
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=fadyalamir&show_icons=true&theme=tokyonight&border_radius=10" alt="Fady Stats" height="180" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fadyalamir&layout=compact&theme=tokyonight&border_radius=10" alt="Top Langs" height="180" />
+  <img src="https://metrics.lecoq.io/fadyalamir?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=Africa%2FCairo" alt="GitHub Metrics" width="100%">
 </p>
 
 ---
