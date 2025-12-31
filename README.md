@@ -3,14 +3,14 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="https://git.io/typing-svg" target="_blank">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=fbbf24&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Next.js+%26+Nest.js+Expert;Software+Architecture+Specialist;Building+Scalable+Solutions" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-### 🏆 Professional Milestones
+### 🏆 Professional Milestones & Achievements
 <p align="center">
   <img src="https://img.shields.io/badge/Pull_Shark-fbbf24?style=for-the-badge&logo=github&logoColor=black" />
   <img src="https://img.shields.io/badge/Quickdraw-fbbf24?style=for-the-badge&logo=github&logoColor=black" />
@@ -20,9 +20,9 @@
 
 ---
 
-### 🚀 Let's Connect & Innovate
+### 🤝 Let's Connect & Build Together
 <p align="center">
-  <a href="https://linkedin.com/in/fadyalamir" target="blank"><img src="https://img.shields.io/badge/LinkedIn-fbbf24?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
+  <a href="https://linkedin.com/in/fadyalamir" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-fbbf24?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=fadyalamer72@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-fbbf24?style=for-the-badge&logo=gmail&logoColor=black" /></a>
   <a href="https://t.me/fadyalamir" target="_blank"><img src="https://img.shields.io/badge/Telegram-fbbf24?style=for-the-badge&logo=telegram&logoColor=black" /></a>
   <a href="https://wa.me/yournumber" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-fbbf24?style=for-the-badge&logo=whatsapp&logoColor=black" /></a>
@@ -31,7 +31,7 @@
 
 ---
 
-### ⚡ Frontend Engineering Mastery
+### 🎨 Frontend Engineering Mastery
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,mui,vite,threejs,sass&perline=10" />
   <br>
@@ -52,14 +52,14 @@
 
 ---
 
-### 🛠️ Professional Engineering Toolbox
+### 🛠️ Professional Toolbox
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,aws,vercel,netlify,pnpm,npm&perline=10" />
 </p>
 
 ---
 
-### 📊 Performance & Coding Insights
+### 📈 GitHub Activity & Insights
 <div align="center">
   <table border="0">
     <tr>
