@@ -10,16 +10,19 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 My GitHub Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=fadyalamir&theme=tokyonight&no-bg=true&column=7&margin-w=15&margin-h=15" alt="fadyalamir trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=fadyalamir&theme=flat&column=7&margin-w=15&margin-h=15&no-bg=true" alt="fadyalamir trophies" />
   </a>
 </p>
 
+> [!TIP]
+> لو الـ Trophies مظهرتش فوراً، جرب تعمل Refresh للصفحة بعد دقيقة، دي مشكلة Cache من GitHub.
+
 ---
 
-### 🤝 Let's Connect & Collaborate
+### 🤝 Reach Out & Connect
 <p align="center">
   <a href="https://linkedin.com/in/fadyalamir" target="blank"><img src="https://img.shields.io/badge/LinkedIn-fbbf24?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
   <a href="mailto:fadyalamer72@gmail.com"><img src="https://img.shields.io/badge/Gmail-fbbf24?style=for-the-badge&logo=gmail&logoColor=black" /></a>
@@ -30,7 +33,7 @@
 
 ---
 
-### 🎨 Frontend Mastery
+### 🎨 Frontend Architecture & UI
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,mui,vite,threejs,sass&perline=10" />
   <br>
@@ -41,7 +44,7 @@
 
 ---
 
-### 🏗️ Backend & Systems Architecture
+### 🏗️ Backend Engineering & Scalability
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mongodb,mysql,redis,graphql,prisma,docker,githubactions,linux&perline=10" />
   <br>
@@ -51,7 +54,7 @@
 
 ---
 
-### 🔧 Engineering Toolbox
+### 🔧 Technical Toolbox
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,aws,vercel,netlify,pnpm,npm&perline=10" />
 </p>
