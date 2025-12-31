@@ -27,7 +27,12 @@
 
 ### 📊 GitHub Activity & Stats
 <p align="center">
-  <img src="https://metrics.lecoq.io/fadyalamir?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=Africa%2FCairo" alt="GitHub Metrics" width="100%">
+  <img src="https://my-github-stats-fady.vercel.app/api?username=fadyalamir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" height="190" />
+  <img src="https://my-github-stats-fady.vercel.app/api/top-langs/?username=fadyalamir&layout=compact&theme=tokyonight&border_radius=10" height="190" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=fadyalamir&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </p>
 
 ---
