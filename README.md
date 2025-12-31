@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
+  <a target="_blank" rel="noopener noreferrer" href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=fbbf24&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Next.js+%26+Nest.js+Expert;Software+Architecture+Specialist;Building+Scalable+Solutions" alt="Typing SVG" />
   </a>
 </p>
@@ -22,19 +22,19 @@
 
 ### 🤝 Let's Connect & Collaborate
 <p align="center">
-  <a href="https://linkedin.com/in/fadyalamir" target="_blank" rel="noopener noreferrer">
+  <a target="_blank" rel="noopener noreferrer" href="https://linkedin.com/in/fady-alamir77">
     <img src="https://img.shields.io/badge/LinkedIn-fbbf24?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=fadyalamer72@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a target="_blank" rel="noopener noreferrer" href="https://mail.google.com/mail/?view=cm&fs=1&to=fadyalamer72@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-fbbf24?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
-  <a href="https://t.me/fadyalamir" target="_blank" rel="noopener noreferrer">
+  <a target="_blank" rel="noopener noreferrer" href="https://t.me/fadyalamir">
     <img src="https://img.shields.io/badge/Telegram-fbbf24?style=for-the-badge&logo=telegram&logoColor=black" />
   </a>
-  <a href="https://wa.me/yournumber" target="_blank" rel="noopener noreferrer">
+  <a target="_blank" rel="noopener noreferrer" href="https://wa.me/01097604425">
     <img src="https://img.shields.io/badge/WhatsApp-fbbf24?style=for-the-badge&logo=whatsapp&logoColor=black" />
   </a>
-  <a href="https://fb.com/fadyalamir" target="_blank" rel="noopener noreferrer">
+  <a target="_blank" rel="noopener noreferrer" href="https://fb.com/fadyalamir77">
     <img src="https://img.shields.io/badge/Facebook-fbbf24?style=for-the-badge&logo=facebook&logoColor=black" />
   </a>
 </p>
