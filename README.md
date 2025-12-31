@@ -43,21 +43,19 @@
 
 ### 🎨 Frontend Mastery & UI Architecture
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,mui,vite,threejs,sass&perline=10" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,mui,vite,threejs,sass,framer&perline=14" />
   <br>
-  <img src="https://img.shields.io/badge/OOP-fbbf24?style=for-the-badge&logo=codeforces&logoColor=black" /> 
-  <img src="https://img.shields.io/badge/Framer_Motion-fbbf24?style=for-the-badge&logo=framer&logoColor=black" /> 
-  <img src="https://img.shields.io/badge/Zod-fbbf24?style=for-the-badge&logo=zod&logoColor=black" />
+  <img src="https://img.shields.io/badge/-ZOD-fbbf24?style=for-the-badge&logo=zod&logoColor=black" />
+  <img src="https://img.shields.io/badge/-OOP-fbbf24?style=for-the-badge&logo=visual-studio-code&logoColor=black" />
 </p>
 
 ---
 
 ### 🏗️ Backend Engineering & Scalable Systems
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mongodb,mysql,redis,graphql,prisma,docker,githubactions,linux&perline=10" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mongodb,mysql,redis,graphql,prisma,docker,githubactions,linux,socketio&perline=14" />
   <br>
-  <img src="https://img.shields.io/badge/JWT_Auth-fbbf24?style=for-the-badge&logo=jsonwebtokens&logoColor=black" /> 
-  <img src="https://img.shields.io/badge/Socket.io-fbbf24?style=for-the-badge&logo=socketdotio&logoColor=black" />
+  <img src="https://img.shields.io/badge/-JWT_AUTH-fbbf24?style=for-the-badge&logo=json-web-tokens&logoColor=black" />
 </p>
 
 ---
