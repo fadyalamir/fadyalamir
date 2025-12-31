@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg" target="_blank">
+  <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=fbbf24&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Next.js+%26+Nest.js+Expert;Software+Architecture+Specialist;Building+Scalable+Solutions" alt="Typing SVG" />
   </a>
 </p>
@@ -20,28 +20,28 @@
 
 ---
 
-### 🚀 Get In Touch & Hire Me
+### 🤝 Let's Connect & Collaborate
 <p align="center">
-  <a href="https://linkedin.com/in/fadyalamir" target="_blank">
+  <a href="https://linkedin.com/in/fadyalamir" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-fbbf24?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=fadyalamer72@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=fadyalamer72@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-fbbf24?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
-  <a href="https://t.me/fadyalamir" target="_blank">
+  <a href="https://t.me/fadyalamir" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Telegram-fbbf24?style=for-the-badge&logo=telegram&logoColor=black" />
   </a>
-  <a href="https://wa.me/yournumber" target="_blank">
+  <a href="https://wa.me/yournumber" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/WhatsApp-fbbf24?style=for-the-badge&logo=whatsapp&logoColor=black" />
   </a>
-  <a href="https://fb.com/fadyalamir" target="_blank">
+  <a href="https://fb.com/fadyalamir" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Facebook-fbbf24?style=for-the-badge&logo=facebook&logoColor=black" />
   </a>
 </p>
 
 ---
 
-### 🎨 Frontend Engineering Mastery
+### ✨ Frontend Mastery & UI Architecture
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,mui,vite,threejs,sass&perline=10" />
   <br>
@@ -52,7 +52,7 @@
 
 ---
 
-### 🏗️ Backend & Scalable Systems
+### 🏗️ Backend Engineering & Cloud Systems
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mongodb,mysql,redis,graphql,prisma,docker,githubactions,linux&perline=10" />
   <br>
@@ -62,14 +62,14 @@
 
 ---
 
-### 🧰 Modern Developer Toolbox
+### 🛠️ Professional Engineering Toolbox
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,aws,vercel,netlify,pnpm,npm&perline=10" />
 </p>
 
 ---
 
-### 📈 GitHub Activity & Insights
+### 📈 GitHub Activity & Stats
 <div align="center">
   <table border="0">
     <tr>
@@ -89,7 +89,7 @@
 
 ---
 
-### 🐍 The Code Narrative
+### 🐍 The Code Journey
 <div align="center">
   <img src="https://github.com/fadyalamir/fadyalamir/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
