@@ -22,11 +22,11 @@
 
 ### 🤝 Let's Connect & Collaborate
 <p align="center">
-  <a href="https://linkedin.com/in/fadyalamir" target="blank"><img src="https://img.shields.io/badge/LinkedIn-fbbf24?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
+  <a href="https://linkedin.com/in/fady-alamir77" target="blank"><img src="https://img.shields.io/badge/LinkedIn-fbbf24?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
   <a href="mailto:fadyalamer72@gmail.com"><img src="https://img.shields.io/badge/Gmail-fbbf24?style=for-the-badge&logo=gmail&logoColor=black" /></a>
   <a href="https://t.me/fadyalamir"><img src="https://img.shields.io/badge/Telegram-fbbf24?style=for-the-badge&logo=telegram&logoColor=black" /></a>
-  <a href="https://wa.me/yournumber"><img src="https://img.shields.io/badge/WhatsApp-fbbf24?style=for-the-badge&logo=whatsapp&logoColor=black" /></a>
-  <a href="https://fb.com/fadyalamir"><img src="https://img.shields.io/badge/Facebook-fbbf24?style=for-the-badge&logo=facebook&logoColor=black" /></a>
+  <a href="https://wa.me/01097604425"><img src="https://img.shields.io/badge/WhatsApp-fbbf24?style=for-the-badge&logo=whatsapp&logoColor=black" /></a>
+  <a href="https://fb.com/fadyalamir77"><img src="https://img.shields.io/badge/Facebook-fbbf24?style=for-the-badge&logo=facebook&logoColor=black" /></a>
 </p>
 
 ---
