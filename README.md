@@ -10,7 +10,7 @@
 
 ---
 
-### 🏆 Professional Milestones & Achievements
+### 🏆 Professional Milestones & Badges
 <p align="center">
   <img src="https://img.shields.io/badge/Pull_Shark-fbbf24?style=for-the-badge&logo=github&logoColor=black" />
   <img src="https://img.shields.io/badge/Quickdraw-fbbf24?style=for-the-badge&logo=github&logoColor=black" />
@@ -20,13 +20,23 @@
 
 ---
 
-### 🤝 Let's Connect & Build Together
+### 🚀 Get In Touch & Hire Me
 <p align="center">
-  <a href="https://linkedin.com/in/fadyalamir" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-fbbf24?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=fadyalamer72@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-fbbf24?style=for-the-badge&logo=gmail&logoColor=black" /></a>
-  <a href="https://t.me/fadyalamir" target="_blank"><img src="https://img.shields.io/badge/Telegram-fbbf24?style=for-the-badge&logo=telegram&logoColor=black" /></a>
-  <a href="https://wa.me/yournumber" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-fbbf24?style=for-the-badge&logo=whatsapp&logoColor=black" /></a>
-  <a href="https://fb.com/fadyalamir" target="_blank"><img src="https://img.shields.io/badge/Facebook-fbbf24?style=for-the-badge&logo=facebook&logoColor=black" /></a>
+  <a href="https://linkedin.com/in/fadyalamir" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-fbbf24?style=for-the-badge&logo=linkedin&logoColor=black" />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=fadyalamer72@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-fbbf24?style=for-the-badge&logo=gmail&logoColor=black" />
+  </a>
+  <a href="https://t.me/fadyalamir" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-fbbf24?style=for-the-badge&logo=telegram&logoColor=black" />
+  </a>
+  <a href="https://wa.me/yournumber" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-fbbf24?style=for-the-badge&logo=whatsapp&logoColor=black" />
+  </a>
+  <a href="https://fb.com/fadyalamir" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-fbbf24?style=for-the-badge&logo=facebook&logoColor=black" />
+  </a>
 </p>
 
 ---
@@ -52,7 +62,7 @@
 
 ---
 
-### 🛠️ Professional Toolbox
+### 🧰 Modern Developer Toolbox
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,aws,vercel,netlify,pnpm,npm&perline=10" />
 </p>
